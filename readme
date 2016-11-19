@@ -1,0 +1,4 @@
+BRANCH CONNECTIVITY 
+PREREQUISITES: In order the script run properly you should create a directory path ./bin/myscripts/CONNECTIVITY/. 
+Store all scripts of connectivity branch. 
+CONNECTIVITY branch: Contains set of scripts to create a Web page with Connectivity information of your device.
